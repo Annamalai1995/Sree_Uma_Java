@@ -5,7 +5,6 @@ public class substring {
         String ss= "Annamalai";
         System.out.println(ss.substring(4));
         System.out.println(ss.substring(0, 8));
-
         System.out.println(ss.toUpperCase());
         System.out.println(ss.toLowerCase());
         System.out.println(ss.trim());

@@ -7,7 +7,7 @@ public class Demo_while1 {
         {
             int digitscount=number%10;//9789%10
             reverse=reverse*10+digitscount;
-            number=number/10;
+              number=number/10;
 
         }
         System.out.println(number+"Your  number reversed"+reverse);
